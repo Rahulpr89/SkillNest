@@ -113,7 +113,6 @@ You can modify these values as needed.
 
 ```bash
 cd backend
-npm i
 npm start
 ```
 
@@ -125,7 +124,6 @@ You can check additional scripts inside `backend/package.json`.
 
 ```bash
 cd frontend
-npm i
 npm run start
 ```
 
