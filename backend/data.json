@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Full Stack Web Development",
+    "price": 49.99,
+    "category": "Web Development",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Become a Job-Ready Full Stack Developer"
+  },
+  {
+    "name": "Node.js & Express Mastery",
+    "price": 39.99,
+    "category": "Backend Development",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1xg0y6r*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NzIwMzYkbzIkZzEkdDE3Njg0NzIwNDIkajU0JGwwJGgw",
+    "title": "Build Scalable Backend Applications"
+  },
+  {
+    "name": "MongoDB for Developers",
+    "price": 29.99,
+    "category": "Database",
+    "image": "https://images.pexels.com/photos/8472911/pexels-photo-8472911.jpeg?_gl=1*1hndku6*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NzIwMzYkbzIkZzEkdDE3Njg0NzIxMDUkajU2JGwwJGgw",
+    "title": "Master MongoDB from Basics to Advanced"
+  },
+  {
+    "name": "React.js Complete Guide",
+    "price": 44.99,
+    "category": "Frontend Development",
+    "image": "https://images.pexels.com/photos/5649518/pexels-photo-5649518.jpeg?_gl=1*1hndku6*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NzIwMzYkbzIkZzEkdDE3Njg0NzIxMDUkajU2JGwwJGgw",
+    "title": "Build Modern UI with React"
+  },
+  {
+    "name": "JavaScript Fundamentals",
+    "price": 0,
+    "category": "Programming",
+    "image": "https://images.pexels.com/photos/6517299/pexels-photo-6517299.jpeg?_gl=1*1hkkmy0*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NzIwMzYkbzIkZzEkdDE3Njg0NzIxMDUkajU2JGwwJGgw",
+    "title": "Learn JavaScript from Scratch"
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "price": 59.99,
+    "category": "Computer Science",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Crack Coding Interviews Efficiently"
+  },
+  {
+    "name": "Python for Beginners",
+    "price": 0,
+    "category": "Programming",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Start Your Programming Journey"
+  },
+  {
+    "name": "UI/UX Design Essentials",
+    "price": 0,
+    "category": "Design",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Design User-Friendly Interfaces"
+  },
+  {
+    "name": "DevOps Basics",
+    "price": 0,
+    "category": "DevOps",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "CI/CD, Docker & Cloud Fundamentals"
+  },
+  {
+    "name": "AWS Cloud Practitioner",
+    "price": 54.99,
+    "category": "Cloud Computing",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Learn Cloud with AWS"
+  },
+  {
+    "name": "Cybersecurity Fundamentals",
+    "price": 0,
+    "category": "Security",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Protect Systems & Networks"
+  },
+  {
+    "name": "Machine Learning Basics",
+    "price": 64.99,
+    "category": "Artificial Intelligence",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Introduction to Machine Learning"
+  },
+  {
+    "name": "Digital Marketing Masterclass",
+    "price": 27.99,
+    "category": "Marketing",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Grow Brands Online"
+  },
+  {
+    "name": "SQL & Database Design",
+    "price": 22.99,
+    "category": "Database",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Learn SQL the Right Way"
+  },
+  {
+    "name": "System Design Basics",
+    "price": 58.99,
+    "category": "Software Engineering",
+    "image": "https://images.pexels.com/photos/4443160/pexels-photo-4443160.jpeg?_gl=1*1by7ip5*_ga*MTIwODUyMTI5Ny4xNzY4NDY4MTQ2*_ga_8JE65Q40S6*czE3Njg0NjgxNDUkbzEkZzEkdDE3Njg0NjgxOTAkajE1JGwwJGgw",
+    "title": "Design Scalable Applications"
+  }
+]
