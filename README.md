@@ -60,7 +60,7 @@ Follow these steps to run the project locally.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Rahulpr89/SkillNest.git
 cd SkillNest
 ```
 
